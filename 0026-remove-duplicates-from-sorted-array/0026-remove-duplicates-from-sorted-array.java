@@ -1,0 +1,17 @@
+class Solution {
+    public int removeDuplicates(int[] nums) {
+        int start =0;
+        for (int i=1;i<nums.length;i++){
+            if(nums[start]!=nums[i]){
+                start++;
+                swap(nums,start,i);
+            }
+        }
+        return start+1;
+    }
+    void swap(int[] nums,int start,int i){
+        int temp=nums[start];
+        nums[start]=nums[i];
+        nums[i]=temp;
+    }
+}
