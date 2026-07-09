@@ -4,27 +4,18 @@ class Solution {
         int[] arr=new int[m+n];
         while(i<m && j<n){
             if(nums1[i]>nums2[j]){
-                arr[k]=nums2[j];
-                j++;
-                k++;
+                arr[k++]=nums2[j++];
             }else{
-                arr[k]=nums1[i];
-                i++;
-                k++;
+                arr[k++]=nums1[i++];
             }
         }
-        if (i>=m){
             while(j<n){
-                arr[k++]=nums2[j];
-                j++;
+                arr[k++]=nums2[j++];
             }
-        }
-        else{
+        
             while(i<m){
-                arr[k++]=nums1[i];
-                i++;
+                arr[k++]=nums1[i++];
             }
-        }
         for (int x=0;x<m+n;x++)
             nums1[x]=arr[x];
     }
