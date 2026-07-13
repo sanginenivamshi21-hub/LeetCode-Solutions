@@ -5,7 +5,7 @@ class Solution {
             if (n==0) count=0;
             count +=n;
             if(count>max)
-                max=count;
+              max=count;
         }
         return max;
     }
