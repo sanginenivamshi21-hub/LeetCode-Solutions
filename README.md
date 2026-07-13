@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 ## Bit Manipulation
 |  |
 | ------- |
