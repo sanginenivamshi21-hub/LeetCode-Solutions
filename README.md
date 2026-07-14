@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Math
 |  |
 | ------- |
