@@ -8,6 +8,8 @@ class Solution {
                 j--;
                 if(i<j){
                     swap(nums,i,j);
+                    i++;
+                    j--;
                 }
         }
         return nums;
