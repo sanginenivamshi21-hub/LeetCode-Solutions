@@ -1,16 +1,25 @@
 class Solution {
     public int thirdMax(int[] nums) {
-        Arrays.sort(nums);
-        int count=1,i;
-        int max=nums.length-1;
-        for(i=nums.length-2;i>=0;i--){
-            if(nums[max]!=nums[i]){
-                max=i;
-                count++;
+        Integer first=null;
+        Integer second=null;
+        Integer third=null;
+        for(int num:nums){
+            if((first!=null && first==num) || (second!=null && second==num) ||
+            (third!=null && third==num))
+            continue;
+            if(first == null || num>first){
+                third=second;
+                second=first;
+                first=num;
             }
-            if (count == 3)
-               return nums[i];
+            else if(second == null || num>second){
+                third=second;
+                second=num;
+            }
+            else if(third == null || num>third){
+                third=num;
+            }
         }
-        return nums[nums.length-1];
+        return third!=null?third:first;
     }
 }
