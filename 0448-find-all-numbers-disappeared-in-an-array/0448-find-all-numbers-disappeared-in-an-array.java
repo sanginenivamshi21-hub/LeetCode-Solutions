@@ -1,19 +1,14 @@
 class Solution {
     public List<Integer> findDisappearedNumbers(int[] nums) {
-        boolean[] present = new boolean[nums.length + 1];
-
-        for (int num : nums) {
-            present[num] = true;
+        boolean[] marked=new boolean[nums.length+1];
+        List<Integer> list=new ArrayList<>();
+        for(int num:nums){
+            marked[num]=true;
         }
-
-        List<Integer> ans = new ArrayList<>();
-
-        for (int i = 1; i <= nums.length; i++) {
-            if (!present[i]) {
-                ans.add(i);
-            }
+        for(int i=1;i<marked.length;i++){
+            if(!marked[i])
+                list.add(i);
         }
-
-        return ans;
+        return list;
     }
 }
