@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0905-sort-array-by-parity](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
@@ -94,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
