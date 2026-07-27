@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
