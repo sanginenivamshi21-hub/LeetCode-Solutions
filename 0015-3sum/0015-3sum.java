@@ -2,8 +2,8 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         List<List<Integer>> res=new ArrayList<>();
-        if (nums[0]>0) return res;
         for (int k=0;k<nums.length-2;k++){
+            if(nums[k]>0) break;
             if(k>0 && nums[k-1]==nums[k]){
                 continue;
             }
