@@ -10,12 +10,12 @@ class Solution {
             int val=-nums[k];
             int i=k+1,j=nums.length-1;
             while(i<j){  
-                List<Integer> list=new ArrayList<>();
                 if(nums[i]+nums[j]<val)
                     i++;
                 else if(nums[i]+nums[j]>val)
                     j--;
                 else{
+                    List<Integer> list=new ArrayList<>();
                     list.add(nums[k]);
                     list.add(nums[i]);
                     list.add(nums[j]);
