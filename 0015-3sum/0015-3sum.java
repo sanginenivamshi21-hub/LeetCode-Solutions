@@ -2,7 +2,7 @@ class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);
         List<List<Integer>> res=new ArrayList<>();
-        for (int k=0;k<nums.length;k++){
+        for (int k=0;k<nums.length-2;k++){
             if(k>0 && nums[k-1]==nums[k]){
                 continue;
             }
