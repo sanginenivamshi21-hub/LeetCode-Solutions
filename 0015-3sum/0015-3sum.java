@@ -7,12 +7,13 @@ class Solution {
             if(k>0 && nums[k-1]==nums[k]){
                 continue;
             }
+            int val=-nums[k];
             int i=k+1,j=nums.length-1;
             while(i<j){  
                 List<Integer> list=new ArrayList<>();
-                if(nums[i]+nums[j]<-nums[k])
+                if(nums[i]+nums[j]<val)
                     i++;
-                else if(nums[i]+nums[j]>-nums[k])
+                else if(nums[i]+nums[j]>val)
                     j--;
                 else{
                     list.add(nums[k]);
