@@ -15,15 +15,15 @@ class Solution {
                 else if(nums[i]+nums[j]>val)
                     j--;
                 else{
-                    List<Integer> list=new ArrayList<>();
-                    list.add(nums[k]);
-                    list.add(nums[i]);
-                    list.add(nums[j]);
-                    int x=i,y=j;
-                    while(i<nums.length && nums[x]==nums[i])
+                    List<Integer> list = List.of(nums[k],nums[i],nums[j]);
+                    i++;
+                    j--;
+                    while(i<j && nums[i]==nums[i-1]){
                         i++;
-                    while(j>0 && nums[y]==nums[j])
+                    }
+                    while(i<j && nums[j]==nums[j+1]){
                         j--;
+                    }
                     res.add(list);
                 }
             }
