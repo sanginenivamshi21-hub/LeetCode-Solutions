@@ -6,7 +6,7 @@ class Solution {
             int res=0;
             while(n>0){
             digit=n%10;
-            res+=(int)Math.pow(digit,2);
+            res+=digit*digit;
             n=n/10;
         }
         n=res;
