@@ -10,9 +10,9 @@ class Solution {
             n=n/10;
         }
         n=res;
+        if (n==1) return true;
         if(seen.contains(n)) break;
         else seen.add(n);
-        if (n==1) return true;
         }
         return false;
     }
