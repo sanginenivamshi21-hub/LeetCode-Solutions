@@ -23,3 +23,14 @@ Daily practice — the streaks on my profile are the evidence that this is a hab
 ## License
 
 MIT (solutions only — problem statements belong to their respective platforms).
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+<!---LeetCode Topics End-->
