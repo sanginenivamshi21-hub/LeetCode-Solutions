@@ -30,6 +30,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0075-sort-colors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,6 +40,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [2413-smallest-even-multiple](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
