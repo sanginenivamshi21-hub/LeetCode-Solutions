@@ -31,6 +31,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0075-sort-colors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2644-find-the-maximum-divisibility-score](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 ## Prefix Sum
 |  |
 | ------- |
