@@ -1,15 +1,9 @@
 class Solution {
     public List<Integer> findMissingElements(int[] nums) {
-        int min=Integer.MAX_VALUE;
-        int max=Integer.MIN_VALUE;
         List<Integer> ans=new ArrayList<>();
-        for(int i:nums){
-            if(i<min)
-               min=i;
-            if(i>max)
-               max=i;
-        }
         Arrays.sort(nums);
+        int min=nums[0];
+        int max=nums[nums.length-1];
         for (int i=min+1;i<max;i++){
             if(binarySearch(nums,0,nums.length-1,i)==-1)
                 ans.add(i);
