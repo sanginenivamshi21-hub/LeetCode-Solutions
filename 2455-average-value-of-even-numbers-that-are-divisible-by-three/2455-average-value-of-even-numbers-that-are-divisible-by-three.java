@@ -7,7 +7,7 @@ class Solution {
                 count++;
             }
         }
-        if(count==0) return res;
+        if(res==0) return res;
         else return res/count;
     }
 }
