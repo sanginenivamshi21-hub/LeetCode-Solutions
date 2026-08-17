@@ -6,9 +6,9 @@ class Solution {
         int[] res=new int[x+y];
         for(int i=x-1;i>=0;i--){
             for(int j=y-1;j>=0;j--){
-                int c=num1.charAt(i)-'0';
+                int a=num1.charAt(i)-'0';
                 int b=num2.charAt(j)-'0';
-                int product=c*b;
+                int product=a*b;
                 int sum = res[i+j+1] + product;
                 res[i+j+1] = sum % 10;
                 res[i+j] += sum / 10;
