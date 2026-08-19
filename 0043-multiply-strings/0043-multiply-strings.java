@@ -14,13 +14,13 @@ class Solution {
                 res[i+j] += sum / 10;
             }
         }
-        StringBuilder sb = new StringBuilder();
+        StringBuilder s = new StringBuilder();
         int i=0;
         while(i<res.length && res[i]==0) i++;
         while(i<res.length){
-           sb.append(res[i]);
+           s.append(res[i]);
            i++;
         }
-        return sb.toString();
+        return s.toString();
     }
 }
