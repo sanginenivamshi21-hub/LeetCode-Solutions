@@ -3,8 +3,8 @@ class Solution {
         int res=0,max=Integer.MIN_VALUE,min=Integer.MAX_VALUE;
         for(int i:divisors){
             int count=0;
-            for(int j:nums){
-                if(j%i==0) count++;
+            for(int k:nums){
+                if(k%i==0) count++;
             }
             if (count>max){
                 max=count;
