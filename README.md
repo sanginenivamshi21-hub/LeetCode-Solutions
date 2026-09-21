@@ -61,6 +61,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0392-is-subsequence) |
