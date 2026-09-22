@@ -10,14 +10,14 @@ class Solution {
         StringBuilder res=new StringBuilder();
         int i=0;
         while(i<str.length()){
-            int j=i+1;
+            int k=i+1;
             int count=1;
-            while(j<str.length() && str.charAt(j)==str.charAt(i)){
+            while(k<str.length() && str.charAt(k)==str.charAt(i)){
                 count++;
-                j++;
+                k++;
             }
             res.append(count).append(str.charAt(i));
-            i=j;
+            i=k;
         }
         return res.toString();
     }
