@@ -29,6 +29,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -87,6 +88,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Simulation
 |  |
