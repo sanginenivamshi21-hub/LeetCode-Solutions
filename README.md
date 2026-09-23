@@ -50,6 +50,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2413-smallest-even-multiple](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
+| [2525-categorize-box-according-to-criteria](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
