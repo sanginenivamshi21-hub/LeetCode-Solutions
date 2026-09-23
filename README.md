@@ -46,6 +46,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0043-multiply-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2413-smallest-even-multiple](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -66,6 +67,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0043-multiply-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0392-is-subsequence](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +97,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0043-multiply-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
