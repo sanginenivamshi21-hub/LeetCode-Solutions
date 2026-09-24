@@ -67,6 +67,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0038-count-and-say](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Dynamic Programming
@@ -78,6 +79,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0075-sort-colors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
@@ -93,6 +95,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -107,6 +110,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
