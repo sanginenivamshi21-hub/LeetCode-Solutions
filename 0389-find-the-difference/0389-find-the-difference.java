@@ -1,5 +1,4 @@
 class Solution {
-    class Solution {
     public char findTheDifference(String s, String t) {
         int res=0,res2=0;
         for(int i=0;i<s.length();i++)
@@ -8,5 +7,4 @@ class Solution {
             res2 +=(int)t.charAt(i);
         return (char)(res2-res);
     }
-}
 }
