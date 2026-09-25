@@ -70,6 +70,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [3146-permutation-difference-between-two-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [3146-permutation-difference-between-two-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
