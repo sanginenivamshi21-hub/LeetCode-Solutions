@@ -28,6 +28,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0009-palindrome-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
