@@ -10,12 +10,12 @@ class Solution {
         }
         return ans;
     }
-    int binarySearch(int[] nums,int start,int end,int key){
+    int binarySearch(int[] nums,int start,int end,int target){
         while(start<=end){
             int mid=start+(end-start)/2;
-            if (nums[mid]==key)
+            if (nums[mid]==target)
                 return mid;
-            else if (nums[mid]>key)
+            else if (nums[mid]>target)
                 end=mid-1;
             else
                 start=mid+1;  
