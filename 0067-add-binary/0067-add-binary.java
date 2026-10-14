@@ -4,7 +4,7 @@ class Solution {
         int j = b.length() - 1;
         int carry = 0;
 
-        StringBuilder sb = new StringBuilder();
+        StringBuilder s = new StringBuilder();
 
         while (i >= 0 || j >= 0 || carry > 0) {
             int sum = carry;
@@ -15,10 +15,10 @@ class Solution {
             if (j >= 0)
                 sum += b.charAt(j--) - '0';
 
-            sb.append(sum % 2);
+            s.append(sum % 2);
             carry = sum / 2;
         }
 
-        return sb.reverse().toString();
+        return s.reverse().toString();
     }
 }
