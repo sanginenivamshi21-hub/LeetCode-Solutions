@@ -33,6 +33,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0136-single-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
@@ -122,4 +123,5 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
