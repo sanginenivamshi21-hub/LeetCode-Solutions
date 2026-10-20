@@ -35,6 +35,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -86,6 +87,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0075-sort-colors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
@@ -124,4 +126,8 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+## Counting
+|  |
+| ------- |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 <!---LeetCode Topics End-->
