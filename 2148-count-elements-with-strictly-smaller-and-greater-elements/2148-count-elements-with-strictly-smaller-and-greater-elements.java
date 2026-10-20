@@ -1,12 +1,15 @@
 class Solution {
     public int countElements(int[] nums) {
-        Arrays.sort(nums);
-        int start=0,end=nums.length-1,count=0;
-        for(int i=1;i<end;i++){
-            if(nums[i]==nums[start] || nums[i]==nums[end])
-                continue;
-            else
-                count++;
+        int min=Integer.MAX_VALUE,max=Integer.MIN_VALUE,count=0;
+        for (int i=0;i<nums.length;i++){
+            if(nums[i]>max)
+               max=nums[i];
+            if(nums[i]<min)
+               min=nums[i];
+        }
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>min && nums[i]<max)
+               count++;
         }
         return count;
     }
