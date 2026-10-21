@@ -7,12 +7,9 @@ class Solution {
                 start=mid+1;
             else if(target<letters[mid])
                 end=mid-1;
-            else
+            else 
                 start++;
         }
-        if(start==letters.length)
-            return letters[0];
-        else
-            return letters[start];
+        return letters[start%letters.length];
     }
 }
