@@ -28,6 +28,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0136-single-number) |
@@ -124,6 +125,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Counting
