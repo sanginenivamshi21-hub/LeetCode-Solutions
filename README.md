@@ -40,6 +40,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
+| [2942-find-words-containing-character](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -78,6 +79,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [2942-find-words-containing-character](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Dynamic Programming
 |  |
