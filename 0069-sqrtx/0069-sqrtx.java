@@ -3,11 +3,8 @@ class Solution {
         long r=x;
         if(x<2)
           return x;
-        while(true){
-            if(r*r>x)
-               r=(r+x/r)/2;
-            else
-                break;
+        while(r*r>x){
+            r=(r+x/r)/2;
         }
         return (int)r;
     }
