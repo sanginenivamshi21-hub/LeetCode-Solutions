@@ -53,6 +53,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0043-multiply-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -130,6 +131,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -137,4 +139,8 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
