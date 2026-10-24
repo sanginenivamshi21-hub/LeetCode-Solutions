@@ -34,6 +34,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0136-single-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -47,6 +48,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +138,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
@@ -145,4 +149,8 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
