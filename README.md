@@ -41,6 +41,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2942-find-words-containing-character](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+| [2951-find-the-peaks](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
@@ -65,6 +66,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## Enumeration
 |  |
 | ------- |
+| [2951-find-the-peaks](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
 |  |
