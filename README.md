@@ -38,6 +38,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1991-find-the-middle-index-in-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2270-number-of-ways-to-split-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
@@ -53,6 +54,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [1991-find-the-middle-index-in-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 ## Math
 |  |
