@@ -47,6 +47,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2942-find-words-containing-character](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -80,6 +81,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Two Pointers
