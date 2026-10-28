@@ -13,8 +13,6 @@ class Solution {
             leftSum+=nums[i];
             if(i==nums.length-1)
                 temp=Math.abs(leftSum/(i+1));
-            else if(i==0)
-                temp=Math.abs((leftSum/(i+1))-(rightSum/(nums.length-i-1)));
             else
                 temp=Math.abs((leftSum/(i+1))-(rightSum/(nums.length-i-1)));
             if(temp<min){
