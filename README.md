@@ -42,6 +42,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [1991-find-the-middle-index-in-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2256-minimum-average-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -133,6 +134,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0136-single-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -149,6 +151,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -166,6 +169,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Newton's Method
 |  |
