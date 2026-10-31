@@ -7,7 +7,6 @@ class Solution {
         //        count++;
         // }
         // return count;
-        int ans=Integer.bitCount(n);
-        return ans;
+        return Integer.bitCount(n);
     }
 }
