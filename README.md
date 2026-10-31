@@ -80,6 +80,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
+| [2578-split-with-minimum-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -119,6 +120,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2578-split-with-minimum-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
@@ -181,6 +183,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [2578-split-with-minimum-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 ## Matrix
 |  |
