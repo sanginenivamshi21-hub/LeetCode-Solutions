@@ -77,6 +77,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -121,6 +122,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Quicksort
@@ -187,6 +189,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 ## Matrix
