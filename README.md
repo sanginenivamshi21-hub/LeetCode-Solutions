@@ -46,6 +46,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2256-minimum-average-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -161,6 +162,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2395-find-subarrays-with-equal-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
