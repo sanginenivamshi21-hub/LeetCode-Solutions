@@ -81,6 +81,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2413-smallest-even-multiple](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
@@ -91,6 +92,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## Enumeration
 |  |
 | ------- |
+| [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -158,6 +160,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0258-add-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,4 +207,12 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
