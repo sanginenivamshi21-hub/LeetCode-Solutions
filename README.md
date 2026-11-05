@@ -87,6 +87,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2469-convert-the-temperature](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2525-categorize-box-according-to-criteria](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2525-categorize-box-according-to-criteria) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2544-alternating-digit-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2544-alternating-digit-sum) |
 | [2578-split-with-minimum-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
