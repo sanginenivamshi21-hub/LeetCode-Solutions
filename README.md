@@ -56,6 +56,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2942-find-words-containing-character](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2951-find-the-peaks) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3701-compute-alternating-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Prefix Sum
@@ -158,6 +159,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0258-add-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3701-compute-alternating-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
 | ------- |
