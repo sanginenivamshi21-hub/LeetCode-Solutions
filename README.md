@@ -120,6 +120,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2864-maximum-odd-binary-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
@@ -178,6 +179,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
@@ -198,6 +200,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Newton's Method
 |  |
