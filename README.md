@@ -52,6 +52,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2644-find-the-maximum-divisibility-score](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2644-find-the-maximum-divisibility-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -116,6 +117,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0349-intersection-of-two-arrays](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2540-minimum-common-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 |  |
@@ -190,6 +192,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
+| [2540-minimum-common-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -205,6 +208,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2540-minimum-common-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 ## Counting
 |  |
 | ------- |
