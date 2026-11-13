@@ -47,6 +47,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2256-minimum-average-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -194,6 +195,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
