@@ -79,6 +79,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0066-plus-one) |
