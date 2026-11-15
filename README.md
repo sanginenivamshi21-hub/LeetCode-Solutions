@@ -168,6 +168,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
@@ -243,6 +244,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 ## Euclidean Algorithm
 |  |
