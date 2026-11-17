@@ -1,12 +1,10 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
-        int i=0;
-        double num=Math.pow(2,i);
+        double num=1;
         while(num<=n){
-            i++;
             if(num==n)
                return true;
-            num=Math.pow(2,i);
+            num *=2;
         }
         return false;
     }
