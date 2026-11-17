@@ -90,6 +90,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0258-add-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
@@ -175,6 +176,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0191-number-of-1-bits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -268,4 +270,5 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0231-power-of-two](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
