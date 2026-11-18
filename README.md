@@ -92,6 +92,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0326-power-of-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -179,6 +180,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0342-power-of-four](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Simulation
 |  |
@@ -271,4 +273,8 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0231-power-of-two](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
