@@ -97,6 +97,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2413-smallest-even-multiple](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -191,6 +192,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0067-add-binary](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
