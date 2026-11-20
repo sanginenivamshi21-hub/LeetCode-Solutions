@@ -66,6 +66,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [3701-compute-alternating-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -163,6 +164,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [3731-find-missing-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Quicksort
 |  |
 | ------- |
