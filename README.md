@@ -190,6 +190,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0693-binary-number-with-alternating-bits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [2595-number-of-even-and-odd-bits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2595-number-of-even-and-odd-bits) |
 ## Simulation
 |  |
 | ------- |
