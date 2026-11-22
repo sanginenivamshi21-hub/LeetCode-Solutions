@@ -100,6 +100,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1551-minimum-operations-to-make-array-equal](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1952-three-divisors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
