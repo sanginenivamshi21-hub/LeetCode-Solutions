@@ -116,6 +116,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3908-valid-digit-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3908-valid-digit-number) |
 ## Enumeration
 |  |
 | ------- |
