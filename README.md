@@ -149,6 +149,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2864-maximum-odd-binary-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
