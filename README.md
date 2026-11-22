@@ -44,6 +44,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -99,6 +100,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
@@ -208,6 +210,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Hash Table
@@ -271,10 +274,12 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Floyd's Cycle Finding Algorithm
 |  |
