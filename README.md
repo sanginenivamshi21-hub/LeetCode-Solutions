@@ -50,6 +50,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2256-minimum-average-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2256-minimum-average-difference) |
 | [2270-number-of-ways-to-split-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2270-number-of-ways-to-split-array) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -106,6 +107,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2119-a-number-after-a-double-reversal](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -209,6 +211,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0258-add-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3701-compute-alternating-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
@@ -217,6 +220,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0258-add-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2427-number-of-common-factors) |
 ## Hash Table
@@ -314,4 +318,8 @@ MIT (solutions only — problem statements belong to their respective platforms)
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1952-three-divisors) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
