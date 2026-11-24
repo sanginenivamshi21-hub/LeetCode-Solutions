@@ -1,8 +1,8 @@
 class Solution {
     public int minMaxGame(int[] nums) {
         int n=nums.length;
+        int[] newNums=new int[n/2];
         while(n!=1){
-            int[] newNums=new int[n/2];
             boolean isEven=true;
             for(int i=0;i<n/2;i++){
                 if(isEven){
