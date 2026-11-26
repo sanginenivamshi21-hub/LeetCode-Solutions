@@ -125,6 +125,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [3232-find-if-digit-game-can-be-won](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3908-valid-digit-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3908-valid-digit-number) |
 ## Enumeration
@@ -217,6 +218,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [2221-find-triangular-sum-of-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2293-min-max-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3360-stone-removal-game](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3701-compute-alternating-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
