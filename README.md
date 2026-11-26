@@ -106,6 +106,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [1952-three-divisors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -271,6 +272,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2578-split-with-minimum-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2578-split-with-minimum-sum) |
 | [2864-maximum-odd-binary-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2864-maximum-odd-binary-number) |
