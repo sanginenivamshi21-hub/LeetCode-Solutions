@@ -45,6 +45,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -177,6 +178,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
