@@ -31,6 +31,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0066-plus-one](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0119-pascals-triangle-ii](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -166,6 +167,7 @@ MIT (solutions only — problem statements belong to their respective platforms)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0119-pascals-triangle-ii](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/sanginenivamshi21-hub/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
